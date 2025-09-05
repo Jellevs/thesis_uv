@@ -12,3 +12,7 @@ __pycache__/
 
 # Videos
 .mp4
+
+# Weights
+SV_kp
+SV_lines

@@ -1,3 +1,6 @@
+import yaml
+import matplotlib
+
 def main():
     print("Hello from thesis-uv!")
 

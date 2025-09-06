@@ -11,7 +11,8 @@ __pycache__/
 .venv
 
 # Videos
-.mp4
+*.mp4
+*.png
 
 # Weights
 SV_kp
